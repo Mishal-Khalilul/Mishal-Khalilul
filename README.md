@@ -24,7 +24,7 @@
 ## 🚀 Technologies I Work With
 
 ### 🧰 Languages & Tools
-`Python`, `C++`, `Bash`, `SQL`, `Git`, `Linux`
+`Python`, `GO`, `C++`, `Bash`, `SQL`, `Git`, `Linux`, 
 
 ### 📦 Libraries & Frameworks
 `TensorFlow`, `Keras`, `PyTorch`, `Scikit-learn`, `OpenCV`, `LangChain`, `Qiskit`, `Pandas`, `NumPy`
