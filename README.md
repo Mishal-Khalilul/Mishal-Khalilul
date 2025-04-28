@@ -44,7 +44,7 @@
 ### 🧠 MRI Brain Tumor Segmentation
 > Deep Learning with U-Net & ResNet  
 > `Transfer Learning | SimpleITK | Data Augmentation`  
-👉 [GitHub Repo](https://github.com/ahammad-mishal/brain-tumor-segmentation)
+👉 [GitHub Repo](https://github.com/Mishal-Khalilul/brain-tumor-segmentation.git)
 
 ### ⚛️ Quantum Error Mitigation via ML
 > AI meets Quantum Computing  
