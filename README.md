@@ -39,7 +39,7 @@
 ### 🧬 Drug Usage Prediction Framework
 > Multi-phase ensemble with ML + LLMs  
 > `LSTM + CNN | Ensemble Models | SMOTE & ADASYN | Bayesian Optimization`  
-👉 [GitHub Repo](https://github.com/ahammad-mishal/drug-usage-ensemble-model)
+👉 [GitHub Repo](https://github.com/Mishal-Khalilul/predict-drug-usage-ml-framework.git)
 
 ### 🧠 MRI Brain Tumor Segmentation
 > Deep Learning with U-Net & ResNet  
